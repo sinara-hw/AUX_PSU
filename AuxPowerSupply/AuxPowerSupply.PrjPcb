@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for AuxPowerSupply
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -176,7 +176,35 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AuxPowerSupply\Design Rule Check - AuxPowerSupply.html
+DocumentPath=Project Outputs for AuxPowerSupply\Panel\ExportIDF\AuxPowerSupply_Panel.brd
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for AuxPowerSupply\Panel_9912\ExportIDF\AuxPowerSupply_Panel.brd
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for AuxPowerSupply\Panel\AutoCAD PCB\AuxPowerSupply_Panel.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for AuxPowerSupply\Panel_9912\AutoCAD PCB\AuxPowerSupply_Panel.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for AuxPowerSupply\Panel\PCB 3D Print\AuxPowerSupply_Panel.png
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for AuxPowerSupply\Panel_9912\PCB 3D Print\AuxPowerSupply_Panel.png
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for AuxPowerSupply\Panel\ExportSTEP\AuxPowerSupply_Panel.step
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for AuxPowerSupply\Panel_9912\ExportSTEP\AuxPowerSupply_Panel.step
 DItemRevisionGUID=
 
 [Configuration1]
@@ -226,7 +254,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for AuxPowerSupply
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -761,6 +789,21 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=SiSoft
+OutputName14=SiSoft (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
