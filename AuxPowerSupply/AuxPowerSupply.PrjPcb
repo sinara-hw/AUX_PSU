@@ -139,23 +139,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SRRFWBEV
 
 [Document6]
-DocumentPath=AuxPowerSupply.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=OverCurrent_Indicators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDFWTTNB
 
-[Document8]
+[Document7]
 DocumentPath=PowerConnectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANYNMLPC
 
-[Document9]
+[Document8]
 DocumentPath=Front_PowerConnectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMMWHYWY
 
-[Document10]
+[Document9]
 DocumentPath=OverTempProtection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSDGZSSO
 
-[Document11]
+[Document10]
 DocumentPath=CPCIS_Connectors_P1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -247,10 +230,6 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for AuxPowerSupply\Design Rule Check - AuxPowerSupply.html
-DItemRevisionGUID=
 
 [Parameter1]
 Name=P_version
@@ -991,6 +970,7 @@ Type155=1
 Type156=1
 Type157=1
 Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1079,6 +1059,7 @@ Type83=1
 Type84=1
 Type85=1
 Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1242,6 +1223,8 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
